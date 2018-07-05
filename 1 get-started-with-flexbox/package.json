@@ -1,0 +1,20 @@
+{
+  "name": "1-get-started-with-flexbox",
+  "private": true,
+  "version": "0.0.1",
+  "description": "level up tuts",
+  "main": "index.html",
+  "dependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp-query": "^1.0.3",
+    "gulp-query-scss": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Astuccio <joe@astucc.io> (astucc.io)",
+  "license": "ISC"
+}
